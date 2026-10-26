@@ -15,6 +15,3 @@ Mathematical and algorithmic utilities originally built for a programming compet
 javac src/*.java -d bin
 java -cp bin BinarioDecimal
 ```
-
-🤖 Generated with [Claude Code](https://claude.com/claude-code)
-Co-Authored-By: Claude Code <noreply@anthropic.com>
